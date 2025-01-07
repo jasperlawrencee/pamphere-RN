@@ -36,3 +36,11 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
+amplify/auth/resource.ts
